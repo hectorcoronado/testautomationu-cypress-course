@@ -1,0 +1,24 @@
+{
+  "name": "testautomationu-cypress-course",
+  "version": "1.0.0",
+  "description": "Code used in TestAutomationU's Cypress Course",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorcoronado/testautomationu-cypress-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorcoronado/testautomationu-cypress-course/issues"
+  },
+  "homepage": "https://github.com/hectorcoronado/testautomationu-cypress-course#readme",
+  "dependencies": {
+    "cypress": "5.2.0"
+  }
+}
