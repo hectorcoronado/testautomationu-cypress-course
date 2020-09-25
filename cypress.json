@@ -1,4 +1,4 @@
 {
-  "watchForFileChanges": true,
+  "watchForFileChanges": false,
   "video": false
 }

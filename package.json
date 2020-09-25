@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/hectorcoronado/testautomationu-cypress-course#readme",
   "dependencies": {
+    "@applitools/eyes-cypress": "3.14.0",
     "cypress": "5.2.0"
   }
 }
